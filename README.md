@@ -4,7 +4,7 @@ Nickname: (Bartô),<br> Idade: 30 anos  <br> Ocupação: Estudante (Análise de 
 <br>
 
 
-<h3 align = "center" > Atualmente procuro me especializar em:</h3>
+<h3 align = "center" > Atualmente procuro especialização em:</h3>
 <p align = "center">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width = "40" >
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "50">
