@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello World!</h1> <br>
-<h2 align = "center" > Nome: Bartolomeu Ribeiro,<br>
-Nickname: (Bartô),<br> Idade: 30 anos  <br> Ocupação: Estudante (Análise de Desenvolvimento de Sistemas) <br>
-À Procura de: Estágio/Emprego (Front-end)</h2>
+<h2 align = "center" > Name: Bartolomeu Ribeiro,<br>
+Nickname: (Bartô),<br> Age: 30 anos  <br> Ocupation: Estudante (Análise de Desenvolvimento de Sistemas) <br>
+Looking for: Estágio/Emprego (Front-end)</h2>
 <br>
 
 
