@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello World!</h1> <br>
 <h2 align = "center" > Name: Bartolomeu Ribeiro,<br>
 Nickname: (Bartô),<br> Age: 30 anos  <br> Ocupation: Estudante (Análise de Desenvolvimento de Sistemas) <br>
-Looking for: Estágio/Emprego (Front-end)</h2>
+Employed at: Capgenimi - Junior analyst</h2>
 <br>
 
 <h3 align = "center"> Connect with me:</h3>
